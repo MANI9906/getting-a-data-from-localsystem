@@ -1,5 +1,7 @@
 RbgTech is good for testing course and improve your skills
 
-git branch -r . Lists all the remote branches.
-git branch -r -v . Lists all the remote branches with the latest commit hash and commit message.
-git ls-remote . Lists all the references in the remote repository, including the branches.
+git branch -r. Lists all the remote branches.
+git branch -r -v. Lists all the remote branches with the latest commit hash and commit message.
+git ls-remote. Lists all the references in the remote repository, including the branches.
+git remote show [remote_name]. Shows information about the specified remote, including the remote branches.
+git branch -a. Shows all the local and remote branches.
